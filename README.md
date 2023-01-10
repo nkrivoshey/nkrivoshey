@@ -61,7 +61,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 --- 
 
-### :zap: My projects can be seen below: 
+### :zap: My projects: 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mPkbb1mIt5TqRRn93A/giphy.gif" width="150"/>
 </div>
