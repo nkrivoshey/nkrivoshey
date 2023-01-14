@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="nkrivoshey-20@edu.ranepa.ru">
-    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
-  </a>
   <a href="https://t.me/nnnnnnnnnnnnnnkkkk">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
