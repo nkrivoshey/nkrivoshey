@@ -51,11 +51,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://vesolv.ru/wp-content/uploads/2021/10/statsmodels-прозр-600-350.webp" title="Statsmodels" alt="Statsmodels" width="50" height="40"/>&nbsp;
 </div>
   
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=nkrivoshey&hide_border=true)](https://git.io/streak-stats)
-
 --- 
 
 ### :zap: My projects: 
