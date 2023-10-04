@@ -52,7 +52,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 </div>
   
 --- 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nkrivoshey&hide_border=true)](https://git.io/streak-stats)
 ### :zap: My projects: 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mPkbb1mIt5TqRRn93A/giphy.gif" width="150"/>
