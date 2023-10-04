@@ -54,7 +54,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkrivoshey&theme=sea-dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nkrivoshey&hide_border=true)](https://git.io/streak-stats)
 
 --- 
 
