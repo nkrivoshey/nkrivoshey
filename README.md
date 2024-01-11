@@ -52,16 +52,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="55" height="45"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png" title="Plotly" alt="Plotly" width="70" height="40"/>&nbsp;
   <img src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" width="70" height="40"/>&nbsp;
-
-
-
-  
-  
-  <img src="https://the-examples-book.com/starter-guides/data-engineering/_images/pyspark.png" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
-  <img src="" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
-
-
-
+<div>
+- ***SQL***
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40"       height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
