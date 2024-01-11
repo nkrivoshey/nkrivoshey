@@ -40,7 +40,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikitlearn" alt="Scikitlearn" width="60" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch" alt="PyTorch" width="60" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch" alt="PyTorch" width="50" height="30"/>&nbsp;
   <img src="https://catboost.ai/docs/catboost-spark/3.0_2.12/latest/api/python/_static/catboost.png" title="CatBoost" alt="CatBoost" width="60" height="40"/>&nbsp;
   <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="40" height="40"/>&nbsp;
   <img src="https://pbs.twimg.com/media/FoPQdY9akAM2L_S.png" title="XGBoost" alt="XGBoost" width="50" height="50"/>&nbsp;
