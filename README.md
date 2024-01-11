@@ -40,12 +40,13 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikitlearn" alt="Scikitlearn" width="60" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://catboost.ai/docs/catboost-spark/3.0_2.12/latest/api/python/_static/catboost.png" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch" alt="PyTorch" width="60" height="40"/>&nbsp;
+  <img src="https://catboost.ai/docs/catboost-spark/3.0_2.12/latest/api/python/_static/catboost.png" title="CatBoost" alt="CatBoost" width="60" height="40"/>&nbsp;
   <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="40" height="40"/>&nbsp;
-  <img src="https://datacorner.fr/wp-content/uploads/2018/09/xgboost.png" title="XGBoost" alt="XGBoost" width="40" height="40"/>&nbsp;
-  <img src="https://velog.velcdn.com/images/soyoun9798/post/4bfe9e9c-5d3e-4d2b-b291-4a51b47e6835/image.jpg" title="PySpark" alt="PySpark" width="40" height="40"/>&nbsp;
-  <img src="https://static.javatpoint.com/tutorial/ai/images/natural-language-toolkit2.png" title="NLTK" alt="NLTK" width="40" height="40"/>&nbsp;
+  <img src="https://datacorner.fr/wp-content/uploads/2018/09/xgboost.png" title="XGBoost" alt="XGBoost" width="60" height="60"/>&nbsp;
+  <img src="https://velog.velcdn.com/images/soyoun9798/post/4bfe9e9c-5d3e-4d2b-b291-4a51b47e6835/image.jpg" title="PySpark" alt="PySpark"  width="60" height="60"/>&nbsp;
+  <img src="https://static.javatpoint.com/tutorial/ai/images/natural-language-toolkit2.png" title="NLTK" alt="NLTK" width="60" height="60"/>&nbsp;
+  
   
   <img src="" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
   <img src="" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
