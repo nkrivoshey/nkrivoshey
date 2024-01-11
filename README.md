@@ -44,7 +44,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://catboost.ai/docs/catboost-spark/3.0_2.12/latest/api/python/_static/catboost.png" title="CatBoost" alt="CatBoost" width="60" height="40"/>&nbsp;
   <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="40" height="40"/>&nbsp;
   <img src="https://pbs.twimg.com/media/FoPQdY9akAM2L_S.png" title="XGBoost" alt="XGBoost" width="50" height="50"/>&nbsp;
-  <img src="https://velog.velcdn.com/images/soyoun9798/post/4bfe9e9c-5d3e-4d2b-b291-4a51b47e6835/image.jpg" title="PySpark" alt="PySpark"  width="70" height="70"/>&nbsp;
+  <img src="https://the-examples-book.com/starter-guides/data-engineering/_images/pyspark.png" title="PySpark" alt="PySpark"  width="60" height="60"/>&nbsp;
   <img src="https://static.javatpoint.com/tutorial/ai/images/natural-language-toolkit2.png" title="NLTK" alt="NLTK" width="60" height="60"/>&nbsp;
   <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" title="Statsmodels" alt="Statsmodels" width="70" height="70"/>&nbsp;
   <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" title="PyMC" alt="PyMC" width="50" height="50"/>&nbsp;
