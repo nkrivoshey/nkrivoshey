@@ -24,8 +24,8 @@
 
 ### 👨‍💻 About Me :
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia :ru: with 2.5 years of practical experience
-- :man_student: I'm studying for a degree in Data Science at the Russian Presidential Academy of National Economy and Public Administration.
 - :office: I'm a data scientist at SBER, a leader in the banking sector in Russia and Eastern Europe, where I am engaged in data analysis, machine learning and the development of intelligent solutions for business.
+- :man_student: I'm studying for a degree in Data Science at the Russian Presidential Academy of National Economy and Public Administration.
 - :star2: I am on the list of the best students in my department.
 - :chart_with_upwards_trend: Ambitious, striving to continue to grow and improve in my profession. 
 - :beach_umbrella: In my free time I like to play sports, spend time with my loved ones, and read technical articles and books
