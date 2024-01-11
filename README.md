@@ -49,9 +49,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://img-blog.csdnimg.cn/6bc4cba6b3874e068bd49a1ed17cc9fc.png" title="Statsmodels" alt="Statsmodels" width="75" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" title="PyMC" alt="PyMC" width="50" height="40"/>&nbsp;
   <img src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png" title="SciPy" alt="SciPy" width="60" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="55" height="45"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png" title="Plotly" alt="Plotly" width="70" height="40"/>&nbsp;
-  <img src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" width="75" height="40"/>&nbsp;
+  <img src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" width="70" height="40"/>&nbsp;
 
 
 
