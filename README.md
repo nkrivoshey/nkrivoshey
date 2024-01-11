@@ -44,7 +44,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://catboost.ai/docs/catboost-spark/3.0_2.12/latest/api/python/_static/catboost.png" title="CatBoost" alt="CatBoost" width="70" height="40"/>&nbsp;
   <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="50" height="40"/>&nbsp;
   <img src="https://pbs.twimg.com/media/FoPQdY9akAM2L_S.png" title="XGBoost" alt="XGBoost" width="50" height="50"/>&nbsp;
-  <img src="https://the-examples-book.com/starter-guides/data-engineering/_images/pyspark.png" title="PySpark" alt="PySpark"  width="50" height="30"/>&nbsp;
+  <img src="https://the-examples-book.com/starter-guides/data-engineering/_images/pyspark.png" title="PySpark" alt="PySpark"  width="50" height="40"/>&nbsp;
   <img src="https://static.javatpoint.com/tutorial/ai/images/natural-language-toolkit2.png" title="NLTK" alt="NLTK" width="75" height="40"/>&nbsp;
   <img src="https://img-blog.csdnimg.cn/6bc4cba6b3874e068bd49a1ed17cc9fc.png" title="Statsmodels" alt="Statsmodels" width="75" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" title="PyMC" alt="PyMC" width="50" height="40"/>&nbsp;
