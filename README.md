@@ -23,7 +23,7 @@
 ---
 
 ### 👨‍💻 About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia:ru:
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia :ru:
 - :man_student: I'm studying for a degree in Data Science at the Russian Presidential Academy of National Economy and Public Administration.
 - :star2: I am on the list of the best students in my department.
 - :chart_with_upwards_trend: Ambitious, striving to continue to grow and improve in my profession. 
