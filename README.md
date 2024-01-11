@@ -40,14 +40,14 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikitlearn" alt="Scikitlearn" width="60" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch" alt="PyTorch" width="60" height="50"/>&nbsp;
   <img src="https://catboost.ai/docs/catboost-spark/3.0_2.12/latest/api/python/_static/catboost.png" title="CatBoost" alt="CatBoost" width="60" height="40"/>&nbsp;
   <img src="https://lightgbm.readthedocs.io/en/stable/_images/LightGBM_logo_black_text.svg" title="LightGBM" alt="LightGBM" width="40" height="40"/>&nbsp;
-  <img src="https://datacorner.fr/wp-content/uploads/2018/09/xgboost.png" title="XGBoost" alt="XGBoost" width="60" height="60"/>&nbsp;
-  <img src="https://velog.velcdn.com/images/soyoun9798/post/4bfe9e9c-5d3e-4d2b-b291-4a51b47e6835/image.jpg" title="PySpark" alt="PySpark"  width="60" height="60"/>&nbsp;
+  <img src="https://pbs.twimg.com/media/FoPQdY9akAM2L_S.png" title="XGBoost" alt="XGBoost" width="50" height="50"/>&nbsp;
+  <img src="https://velog.velcdn.com/images/soyoun9798/post/4bfe9e9c-5d3e-4d2b-b291-4a51b47e6835/image.jpg" title="PySpark" alt="PySpark"  width="70" height="70"/>&nbsp;
   <img src="https://static.javatpoint.com/tutorial/ai/images/natural-language-toolkit2.png" title="NLTK" alt="NLTK" width="60" height="60"/>&nbsp;
-  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" title="Statsmodels" alt="Statsmodels" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" title="PyMC" alt="PyMC" width="40" height="40"/>&nbsp;
+  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" title="Statsmodels" alt="Statsmodels" width="70" height="70"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/pymc-devs/brand/main/pymc/pymc_logos/PyMC_banner.svg" title="PyMC" alt="PyMC" width="50" height="50"/>&nbsp;
   <img src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
   <img src="https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png" title="Matplotlib" alt="Matplotlib" width="75" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
@@ -56,7 +56,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
   
-  <img src="https://pbs.twimg.com/media/FoPQdY9akAM2L_S.png" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
+  
   <img src="" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
   <img src="" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
 
