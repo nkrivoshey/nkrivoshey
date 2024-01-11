@@ -28,7 +28,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :star2: I am on the list of the best students in my department.
 - :chart_with_upwards_trend: Ambitious, striving to continue to grow and improve in my profession. 
 - :beach_umbrella: In my free time I like to play sports, spend time with my loved ones, and read technical articles and books
-- :incoming_envelope: How to reach me:[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)]("https://t.me/nnnnnnnnnnnnnnkkkk")
+- :incoming_envelope: How to reach me: https://t.me/nnnnnnnnnnnnnnkkkk
+- [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)]("https://t.me/nnnnnnnnnnnnnnkkkk")
 
 ---
 
