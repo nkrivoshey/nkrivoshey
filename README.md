@@ -57,7 +57,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
   
   
-  <img src="" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
+  <img src="https://the-examples-book.com/starter-guides/data-engineering/_images/pyspark.png" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
   <img src="" title="CatBoost" alt="CatBoost" width="40" height="40"/>&nbsp;
 
 
