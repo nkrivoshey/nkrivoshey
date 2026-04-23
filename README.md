@@ -124,7 +124,7 @@ Before Dubai, at **Sberbank** (Russia's largest bank, 70M+ customers): built ML/
 
 ## 🎓 Education & Research
 
-- **M.Sc. Artificial Intelligence & Data Analysis** — NIU BelGU (2024–present)
+- **M.Sc. Artificial Intelligence & Data Analysis** — NIU BelGU (2025–present)
 - **B.Sc. Digital Economy & Data Analytics** — RANEPA, Moscow (2020–2025, GPA **4.5/5**)  
   Thesis: Russian equity mutual fund performance (K-means + CAPM/Carhart/Treynor–Mazuy).  
   Findings **requested by NAUFOR and the Central Bank of Russia**.
