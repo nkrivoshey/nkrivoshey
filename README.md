@@ -1,80 +1,100 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nikita+%F0%9F%91%8B;Data+Analyst+%26+Analytics+Engineer;SQL+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+PostgreSQL+DWH;4%2B+years+%7C+Dubai+%E2%86%92+EU+%2F+UAE+%2F+Remote" alt="Typing SVG" />
 </div>
 
-<div id="badges" align="center">
-  <a href="https://t.me/nnnnnnnnnnnnnnkkkk">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-krivoshei">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:nikita.krivoshey28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+<br/>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=nkrivoshey&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there&nbsp;
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikita--krivoshei-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikita-krivoshei/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nikita.krivoshey28@gmail.com)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-contact-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nnnnnnnnnnnnnnkkkk)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me  
-**Middle Data Analyst & Data Scientist** with **4+ years** of experience transforming data into strategic impact:
+## 🧠 About Me
 
-**At Metropolitan Premium Properties (03/2024 – Present)**  
-- **90%** productivity boost through Python/GCP reporting automation.  
-- Developed a Telegram bot for real-time Dubai market analytics & ML-powered price forecasts across **80+** locations.  
-- Built a **2-year** workforce & revenue forecasting model to optimize headcount planning.  
-- Unified data from PropCRM, Bitrix24 & 1C into a centralized database for seamless ETL.  
-- Created a Marketing ROI Power BI dashboard driving a **10%** revenue uplift.  
-- Automated front-desk data entry via Apps Script, accelerating collection by **80%**.  
+I build analytics that companies actually make decisions from — not dashboards that sit unread.
 
-**At Sberbank (02/2022 – 03/2024)**  
-- Detected **1.5 M+** compliance violations using Python & SQL, mitigating legal risk.  
-- Trained ML classifiers (Random Forest, XGBoost) to flag **300 K** critical bankruptcy-related cases.  
-- Applied graph-based process mining to expose **1 M** systemic delays.  
-- Implemented NLP pipelines (PyMorphy2, NLTK) to structure client documents, cutting processing time by **70%**.  
-- Built scalable ETL/ELT pipelines with PySpark & Hadoop, improving data consistency.
+Currently at **Metropolitan Premium Properties** (Dubai's largest premium real estate brokerage), I own the full analytics stack end-to-end: PostgreSQL DWH architecture, CRM integration (Bitrix24 + PropCRM + 1C), and Power BI executive reporting.
+
+**Results that matter:**
+- **10% revenue uplift** via Marketing ROI dashboard and budget reallocation
+- **90% productivity boost** for QC team through reporting automation
+- **5× faster** reporting turnaround — eliminated 80% manual processing
+- **80-location** Dubai real estate intelligence platform with ML price forecasts
+
+Before Dubai, at **Sberbank** (Russia's largest bank, 70M+ customers), I built ML/NLP pipelines detecting **1.5M+ compliance violations** and flagging **300K+ bankruptcy breaches**.
+
+📍 Dubai, UAE → Open to **Europe · UAE · USA · Remote**
 
 ---
 
-### 🛠️ Tech Stack  
-- **Languages:** Python, SQL, R, C++, Java  
-- **ML & NLP:** scikit-learn, XGBoost, PyTorch, Transformers, NLTK, PyMorphy2  
-- **Data Engineering:** PySpark, BigQuery, Hadoop (Hive/YARN), Airflow, ETL/ELT  
-- **BI & Visualization:** Power BI (DAX, Power Query), Tableau, Pandas, NumPy, Matplotlib, Plotly  
-- **Cloud & DevOps:** GCP, AWS, Docker, Linux, Git  
+## 🛠️ Tech Stack
+
+**Data & SQL**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/Advanced_SQL-f29111?style=flat)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-808080?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Python & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat)
+![NLP](https://img.shields.io/badge/NLP_(NLTK·PyMorphy2)-3776AB?style=flat)
+
+**Data Engineering & Cloud**
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Selected Projects  
-- **Real-Estate Analytics Bot** (2024–Present)  
-  Python & GCP-powered Telegram bot delivering live dashboards and ML price forecasts for 80+ Dubai areas.  
-- **Workforce & Revenue Forecasting** (2024)  
-  2-year predictive model in Python, aligning hiring with revenue goals.  
-- **Compliance Violation Detection** (Sberbank, 2022–2024)  
-  NLP & ML pipelines that flagged 1.5 M+ violations and accelerated legal case processing.  
-- **EKF Optimization** (2025)  
-  C++ implementation of Extended Kalman Filter using BFGS/L-BFGS for faster matrix inversion.  
-- **Mutual Funds Performance Study** (2021–2025)  
-  Econometric analysis (CAPM, Carhart, Treynor–Mazuy, clustering); results requested by NAUFOR & Central Bank.
+## 📌 Featured Projects
+
+| Project | Description | Stack | Impact |
+|---------|-------------|-------|--------|
+| [Dubai Real Estate Market Analysis](https://github.com/nkrivoshey/dubai-real-estate-market-analysis) | Market analysis of 80 Dubai property areas: price dynamics, demand patterns, investment clusters | Python · Pandas · Matplotlib | ⭐ 7 stars |
+| [LinkedIn AI Agent](https://github.com/nkrivoshey/linkedin-agent) | Production AI pipeline: news → Claude Sonnet → Telegram approval → LinkedIn publish. Deployed on Railway | Python · Claude API · APScheduler | prod 🚀 |
+| [Extended Kalman Filter (C++)](https://github.com/nkrivoshey/extended-kalman-filter-cpp) | Moment-based Kalman Filter with BFGS/DFP/L-BFGS matrix approximations — academic research | C++ · Numerical Methods | academic |
+| [ML Practice Notebooks](https://github.com/nkrivoshey/ml-practice-notebooks) | Structured ML tasks: regression, classification, NLP, PyTorch — from raw data to tuned models | Python · scikit-learn · XGBoost · PyTorch | — |
+| [Sberbank NLP Challenge](https://github.com/nkrivoshey/sberbank-nlp-challenge) | Multiclass text classification pipeline (Sberbank internship challenge) | Python · NLP · XGBoost | — |
+| [PyTorch Image Classification](https://github.com/nkrivoshey/pytorch-image-classification) | End-to-end image classification: CNN architecture, training loop, evaluation metrics | Python · PyTorch | — |
 
 ---
 
-### 🎓 Certifications & Awards  
-- **Speaker**, RANEPA Open Scientific Seminar (July 2025)  
-- **Finalist**, Yandex Olympiad “I am a Professional” (Economics & Math)  
-- DataCamp & Stepik: Supervised Learning, Time Series, Advanced SQL
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nkrivoshey&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkrivoshey&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+</div>
 
 ---
 
-### 🤝 Let’s Connect  
-📬 nikita.krivoshey28@gmail.com  
-📱 [Telegram](https://t.me/nnnnnnnnnnnnnnkkkk)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikita-krivoshei)
+## 🎓 Education & Research
+
+- **B.Sc. Digital Economy & Data Analytics** — RANEPA, Moscow (2020–2025, GPA **4.5/5**)  
+  Thesis: Russian equity mutual fund performance (K-means + CAPM/Carhart/Treynor–Mazuy).  
+  Findings **requested by NAUFOR and the Central Bank of Russia**.
+- **Speaker** — RANEPA Scientific Seminar on Investment Analytics (07/2025)
+- **Finalist** — Yandex "I am a Professional" Olympiad, Economics & Mathematics (2022)
+
+**Certifications:** DataCamp (Supervised ML · Bayesian Analysis · SQL · Time Series) · Stepik (SQL Window Functions)
